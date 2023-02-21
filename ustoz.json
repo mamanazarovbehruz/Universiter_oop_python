@@ -1,0 +1,81 @@
+[
+    {
+        "name":"Ulug'bek",
+        "surname":"Mardiyev",
+        "login":"MU1111",
+        "password":1111,
+        "faculty":"KIBERXAVFSIZLIK",
+        "science":"Kriptagrafiya"
+    },
+    {
+        "name":"Bobur",
+        "surname":"Shirinov",
+        "login":"ShB2222",
+        "password":2222,
+        "faculty":"KIBERXAVFSIZLIK",
+        "science":"Tarmoq havfsizligi"
+    },
+    {
+        "name":"Barno",
+        "surname":"Shamshieva",
+        "login":"ShB3333",
+        "password":3333,
+        "faculty":"KOMPYUTER INJINIRINGI",
+        "science":"Mashinali O'qitish"
+    },
+    {
+        "name":"Aziz",
+        "surname":"Ishmuhamedov",
+        "login":"IA4444",
+        "password":4444,
+        "faculty":"KOMPYUTER INJINIRINGI",
+        "science":"Operatsion Tizimlar"
+    },
+    {
+        "name":"Nilufar",
+        "surname":"Mirzayeva",
+        "login":"MN5555",
+        "password":5555,
+        "faculty":"DASTURIY INJINIRING",
+        "science":"Dasturiy Taminot"
+    },
+    {
+        "name":"Akmaljon",
+        "surname":"Abdumalikov",
+        "login":"AA6666",
+        "password":6666,
+        "faculty":"DASTURIY INJINIRING",
+        "science":"Web Dasturlash"
+    },
+    {
+        "name":"Iqbola",
+        "surname":"Xolimtayeva",
+        "login":"XI7777",
+        "password":7777,
+        "faculty":"TELEKOMMUNIKATSIYA TEXNOLOGIYALARI",
+        "science":"Metralogiya"
+    },
+    {
+        "name":"Gulnora",
+        "surname":"Rahmonova",
+        "login":"RG8888",
+        "password":8888,
+        "faculty":"TELEKOMMUNIKATSIYA TEXNOLOGIYALARI",
+        "science":"Kompyuter Tarmoqlari"
+    },{
+        "name":"Jura",
+        "surname":"Yunusov",
+        "login":"YJ9999",
+        "password":9999,
+        "faculty":"TELEVIZION TEXNOLOGIYALAR",
+        "science":"Boshqaruv Tamoyillari"
+    },
+    {
+        "name":"Nazokat",
+        "surname":"Xadjiyeva",
+        "login":"XN1234",
+        "password":1234,
+        "faculty":"TELEVIZION TEXNOLOGIYALAR",
+        "science":"Texnalogik Jarayon"
+    }
+]
